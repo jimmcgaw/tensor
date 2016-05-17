@@ -11,6 +11,9 @@ and install dependencies by running:
 
 ``` $ pip install -r requirements.txt ```
 
+This is installing numpy, scipy, matplotlib, and some other libs that depend on these. Expect installation to take
+several minutes in your virtualenv if starting from scratch.
+
 To test your installation, run:
 
 ``` $ python multiply.py ```
