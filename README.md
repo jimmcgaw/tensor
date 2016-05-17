@@ -16,3 +16,8 @@ To test your installation, run:
 ``` $ python multiply.py ```
 
 That should output the product (9.0) of the two floats declared in that file.
+
+## Matplotlib
+
+If you're running any code that requires the matplotlib function calls inside of virtualenv,
+you might run into issues. See the [Matplotlib docs about virtualenvs](http://matplotlib.org/faq/virtualenv_faq.html#osx).
